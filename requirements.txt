@@ -2,5 +2,6 @@ altair
 pandas
 streamlit
 folium
+plotly
 plotly.express
 streamlit_folium
